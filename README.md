@@ -11,7 +11,7 @@ Sou Pesquisador no [OPSA](https://opsa.com.br), [NECON](https://www.iesp.uerj.br
 
 # 👋 Hi, I'm Lucas Calabró Berti!
 
-I'm a Master's student in Political Science at IESP-UERJ and I hold a BA in Political Science from UNIRIO.  
+I'm pursuing my Master's degree in Political Science at IESP-UERJ and I hold a BA in Political Science from UNIRIO.  
 My research focuses on political institutions in South America, with an emphasis on legislative studies, presidentialism, governing coalitions, and executive-legislative relations.
 
 I'm a researcher at [OPSA](https://opsa.com.br), [NECON](https://www.iesp.uerj.br), and [GRISUL](https://www.grisul.com.br), and an editor of the monthly journal *Conjuntura Latitude Sul*.
