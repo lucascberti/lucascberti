@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Lucas Calabró Berti!
 
 Sou mestrando em Ciência Política no IESP-UERJ e Cientista Político pela UNIRIO. Pesquiso temas relacionados a Instituições Políticas no Brasil e América do Sul, com ênfase em estudos legislativos, presidencialismo, coalizões de governo e relações Executivo-Legislativo
-Sou Pesquisador no [OPSA](https://opsa.com.br), [NECON](https://www.iesp.uerj.br) e [OLE]. Além disso, sou Coordenador-Executivo do [GRISUL](https://www.grisul.com.br) e editor do periódico *Conjuntura Latitude Sul*.
+Sou Pesquisador no [OPSA](https://opsa.com.br), [NECON](https://www.iesp.uerj.br) e [OLE](https://iesp-uerj.github.io/ole/). Além disso, sou Coordenador-Executivo do [GRISUL](https://www.grisul.com.br) e editor do periódico *Conjuntura Latitude Sul*.
 
 🌐 [Meu site pessoal](wwww.lucasberti.com)  
 📧 **Contato:** lucasberti@iesp.uerj.br  
